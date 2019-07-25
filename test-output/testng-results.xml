@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite1" duration-ms="96" started-at="2019-06-29T07:28:24Z" finished-at="2019-06-29T07:28:24Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="42" started-at="2019-06-29T07:28:24Z" finished-at="2019-06-29T07:28:24Z">
+      <class name="AA.class1test">
+        <test-method status="PASS" signature="func1()[pri:0, instance:AA.class1test@6d8a00e3]" name="func1" duration-ms="12" started-at="2019-06-29T07:28:24Z" finished-at="2019-06-29T07:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func1 -->
+      </class> <!-- AA.class1test -->
+    </test> <!-- test1 -->
+    <test name="test2" duration-ms="7" started-at="2019-06-29T07:28:24Z" finished-at="2019-06-29T07:28:24Z">
+      <class name="BB.class2">
+        <test-method status="PASS" signature="func2()[pri:0, instance:BB.class2@482f8f11]" name="func2" duration-ms="2" started-at="2019-06-29T07:28:24Z" finished-at="2019-06-29T07:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func2 -->
+      </class> <!-- BB.class2 -->
+    </test> <!-- test2 -->
+  </suite> <!-- TestSuite1 -->
+</testng-results>
